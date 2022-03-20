@@ -1,0 +1,4 @@
+.outer {
+  width: max-content;
+  overflow:auto;
+}
